@@ -1,0 +1,22 @@
+[
+  {
+    "libraryIdentifier" : "c8a538328cf3598ceb7198e562f4a3f2",
+    "format" : "arObject",
+    "displayName" : "Fistmas.arobject"
+  },
+  {
+    "libraryIdentifier" : "4a3ea4e6f37815061098ade939df3a5a",
+    "format" : "model",
+    "displayName" : "Boy.usdz"
+  },
+  {
+    "libraryIdentifier" : "f757f5d74abd3df7cd4ccbcc7b9c5c9a",
+    "format" : "model",
+    "displayName" : "Cabin.usdz"
+  },
+  {
+    "libraryIdentifier" : "f5ae879dcf8740827d829a30789cfc4b",
+    "format" : "model",
+    "displayName" : "Gift.usdz"
+  }
+]
